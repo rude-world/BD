@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Андрей\\Desktop\\vs\\DataBase-DataBase.v.002\\DataBase-DataBase.v.002\\WindowsFormsApp1\\DataBaseLib\\DataBaseLib.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Андрей\\Desktop\\vs\\DataBase-DataBase.v.002\\DataBase-DataBase.v.002\\WindowsFormsApp1\\DataBaseLib\\DataBaseLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\vs\\DataBase-DataBase.v.002\\DataBase-DataBase.v.002\\WindowsFormsApp1\\DataBaseLib\\DataBaseLib.csproj",
+        "projectName": "DataBaseLib",
+        "projectPath": "C:\\Users\\Андрей\\Desktop\\vs\\DataBase-DataBase.v.002\\DataBase-DataBase.v.002\\WindowsFormsApp1\\DataBaseLib\\DataBaseLib.csproj",
+        "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Андрей\\Desktop\\vs\\DataBase-DataBase.v.002\\DataBase-DataBase.v.002\\WindowsFormsApp1\\DataBaseLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\visual\\shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.116, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
