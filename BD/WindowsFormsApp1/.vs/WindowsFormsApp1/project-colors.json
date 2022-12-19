@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8df1346-d4ab-4676-886d-068ec5c4abb0": {
+      "ProjectGuid": "b8df1346-d4ab-4676-886d-068ec5c4abb0",
+      "DisplayName": "DataBaseLib",
+      "ColorIndex": 0
+    },
+    "67c8bc0c-a2ec-4cbd-b3e0-082ad36771d3": {
+      "ProjectGuid": "67c8bc0c-a2ec-4cbd-b3e0-082ad36771d3",
+      "DisplayName": "WindowsAPI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
